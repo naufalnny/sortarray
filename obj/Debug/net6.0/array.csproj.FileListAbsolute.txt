@@ -1,0 +1,15 @@
+C:\artefak\part 2\array\bin\Debug\net6.0\array.exe
+C:\artefak\part 2\array\bin\Debug\net6.0\array.deps.json
+C:\artefak\part 2\array\bin\Debug\net6.0\array.runtimeconfig.json
+C:\artefak\part 2\array\bin\Debug\net6.0\array.dll
+C:\artefak\part 2\array\bin\Debug\net6.0\ref\array.dll
+C:\artefak\part 2\array\bin\Debug\net6.0\array.pdb
+C:\artefak\part 2\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+C:\artefak\part 2\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\artefak\part 2\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+C:\artefak\part 2\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+C:\artefak\part 2\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+C:\artefak\part 2\array\obj\Debug\net6.0\array.dll
+C:\artefak\part 2\array\obj\Debug\net6.0\ref\array.dll
+C:\artefak\part 2\array\obj\Debug\net6.0\array.pdb
+C:\artefak\part 2\array\obj\Debug\net6.0\array.genruntimeconfig.cache
